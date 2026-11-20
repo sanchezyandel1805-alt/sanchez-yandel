@@ -14,3 +14,21 @@
 # El White Hat es un hacker ético que utiliza sus conocimientos para encontrar errores y mejorar la seguridad. El Black Hat utiliza sus conocimientos para robar información, entrar sin permiso o causar daños.
 # 8. ¿Por qué es importante realizar copias de seguridad?
 # Porque nos permiten recuperar nuestros archivos si se borran, se dañan o perdemos el dispositivo. Así evitamos perder información importante.
+
+
+
+seguridad-informatica-apellido-nombre/
+│
+└── README.md
+
+El README deberá contener:
+# Seguridad Informática
+## Datos del estudiante
+- Nombre y apellido:
+- Curso:
+- Materia:
+## Parte A - Investigación
+Respuestas...
+## Parte B - Análisis de situaciones
+Respuestas...
+## Parte C - Seguridad en una escuela
